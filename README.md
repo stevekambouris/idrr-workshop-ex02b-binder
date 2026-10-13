@@ -2,7 +2,7 @@
 ### An introduction to using Docker with R for reproducible research
 # Example: Calculating a bootstrapped confidence interval (R 3.6.0)
 
-_This repository is set up to be launched as a container on mybinder.org, rather than to be used to build an image with Docker Desktop. For the version of this example that can be used to build an image locally, go to <https://github.com/stevekambouris/idrr-workshop-ex02b>._
+_This repository is set up to be launched as a container on mybinder.org, rather than to be used to build an image with Docker Desktop. For the version of this example that can be used to build an image locally, go to <https://github.com/stevekambouris/idrr-workshop-ex02b-desktop>._
 
 Click the button below to start an instance of the container defined by this repository on mybinder.org.
 
